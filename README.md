@@ -1,5 +1,12 @@
-Project Motivation/ Description:
-India holds the world record in the number of road accidents annually, according to the ministry’s data, 12,256 road accidents occurred in 2019 which were related to drunk driving, against 12,000 such cases reported in 2018. The National Crime Records Bureau (NCRB) data also shows that around 2% of the total road accidents that happen in India are due to drunk driving. In 2019 alone, around 3,000 people lost their lives in road accidents that were related to drunk driving, while 6,675 people were left injured in such drunk driving-related road accidents. With my project, “Alcohol detection System”, I intend on preventing these accidents. This project also provided the much-required exposure and experience required by working with microcontrollers, as well by coding and understanding the working of such systems.
-Platform Used: Proteus 8 Professional
-The language used: C++
-Tools Used: Mq3 Gas Sensor, Arduino Uno, LCD Display, Toggle button, Resistor and LED
+Steps for this project
+Install Proteus 8 professional tool
+Download Arduino Uno Library and Gas Sensor Library
+Paste these Libraries in the file location i.e C: \ Program Files \ Labcenter Electronics \ Proteus 8 Professional \Library
+Importing the following components
+        1)Arduino Uno R3
+        2)LED-Red
+        3)Resistor
+        4)Logic Toggle
+        5)MQ3-Gas Sensor
+        6)LCD Display
+circuit diagram is: https://user-images.githubusercontent.com/71188736/122643004-dc501700-d12a-11eb-8bd7-3a6eabf8f28d.png
