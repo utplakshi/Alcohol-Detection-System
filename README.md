@@ -1,7 +1,8 @@
 <h2>Steps for this project</h2><br>
 1.Install Proteus 8 professional tool<br>
 2.Download Arduino Uno Library and Gas Sensor Library<br>
-3.Paste these Libraries in the file location i.e C: \ Program Files \ Labcenter Electronics \ Proteus 8 Professional \Library<br>
+3.Paste these Libraries in the file location i.e
+<br><b>C: \ Program Files \ Labcenter Electronics \ Proteus 8 Professional \Library</b><br>
 4.Importing the following components<br>
         1)Arduino Uno R3<br>
         2)LED-Red<br>
