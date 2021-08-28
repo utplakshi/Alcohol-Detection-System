@@ -1,4 +1,4 @@
-<h2>Steps for this project</h2><br>
+<h4>Steps for this project</h4><br>
 1.Install Proteus 8 professional tool<br>
 2.Download Arduino Uno Library and Gas Sensor Library<br>
 3.Paste these Libraries in the file location i.e
